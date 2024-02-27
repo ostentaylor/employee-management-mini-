@@ -20,21 +20,21 @@ Employee.create!(
   email: 'osteenk@gmail.com'
 )
 
-Employee.create!(
-  firstname: 'Jane',
-  lastname: 'Kavula',
-  employee_number: 67890,
-  salary: 60000,
-  email: 'kavula12@gmail.com'
-)
+# Employee.create!(
+#   firstname: 'Jane',
+#   lastname: 'Kavula',
+#   employee_number: 67890,
+#   salary: 60000,
+#   email: 'kavula12@gmail.com'
+# )
 
-Employee.create!(
-  firstname: 'John',
-  lastname: 'Doe',
-  employee_number: 12395,
-  salary: 50000,
-  email: 'john@example.com'
-)
+# Employee.create!(
+#   firstname: 'John',
+#   lastname: 'Doe',
+#   employee_number: 12395,
+#   salary: 50000,
+#   email: 'john@example.com'
+# )
 
 
 # Add more employee records as needed...
